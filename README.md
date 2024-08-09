@@ -1,4 +1,4 @@
-# new-wave-station-neo
+# New Wave Station (Remastered)
 Remastered version of New Wave Station; Update by "Waves".<br>
 It's an XG-map soundfont with Genos 2 (贵阳 Project) and it's styled Patches (with step-by-step task). Made for live-performance / composition.
 
