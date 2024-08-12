@@ -2,7 +2,7 @@
 **Libre Audio Project ID: LIBRE-2024-B01**
 ---
 Remastered version of New Wave Station; Update by "Waves".<br>
-It's an XG-map soundfont with Genos 2 (贵阳 Project) and it's styled Patches (with step-by-step task). Made for live-performance / composition.
+It's a soundfont that imported from various of authorized CC0 samples, with Genos 2 (贵阳 Project) and it's styled Patches (with step-by-step task). Mapped with XG. Made for live-performance / composition.
 
 [Download](https://archive.wohlsoft.ru/_User/Yingchun%20Soul/Sample%20Libraries/New%20Wave%20Station%202024.sf2)<br>
 [Musical Artifacts Mirror](https://musical-artifacts.com/artifacts/4523)<br>
