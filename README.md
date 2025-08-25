@@ -12,7 +12,7 @@ It's a soundfont that imported from various of authorized CC0 samples, with Geno
 Note: This overhaul should be 100% libre, copyright-safe real instrument samples / presets. For sample feedback/contribution, please don't give me:
 
 1. Sound module samples (aka Romplers), as they're copyrighted;
-2. Unauthorized or pirated CC0/PD samples;
+2. Unauthorized or pirated samples (These may cause the copyright/license info to be null/void);
 3. Unrealistic instrument samples (e.g. Resynthesized with synthesizers);
 4. Presets that re-synthesized with realistic samples, another sort of unrealistic.
 
